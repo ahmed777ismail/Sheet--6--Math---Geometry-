@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prime checking", "Prime checking\Prime checking.vcxproj", "{237323A0-B1A2-4C66-981B-3A9F558A7CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237323A0-B1A2-4C66-981B-3A9F558A7CB1}.Debug|x64.ActiveCfg = Debug|x64
+		{237323A0-B1A2-4C66-981B-3A9F558A7CB1}.Debug|x64.Build.0 = Debug|x64
+		{237323A0-B1A2-4C66-981B-3A9F558A7CB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{237323A0-B1A2-4C66-981B-3A9F558A7CB1}.Debug|x86.Build.0 = Debug|Win32
+		{237323A0-B1A2-4C66-981B-3A9F558A7CB1}.Release|x64.ActiveCfg = Release|x64
+		{237323A0-B1A2-4C66-981B-3A9F558A7CB1}.Release|x64.Build.0 = Release|x64
+		{237323A0-B1A2-4C66-981B-3A9F558A7CB1}.Release|x86.ActiveCfg = Release|Win32
+		{237323A0-B1A2-4C66-981B-3A9F558A7CB1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6438DC0B-BC38-4A87-BC8C-D90A1650CE15}
+	EndGlobalSection
+EndGlobal
